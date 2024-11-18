@@ -61,7 +61,7 @@ g.add_edge(why_masks_no_work, people_no_wear_properly)
   masks_do_work = g.add_node("Masks are very\neffective even if\nnot worn perfectly.", URL: 'https://youhavetoliveyour.life/masks-dont-work', target: 'new'),
   resist_peer_pressure = g.add_node("Doing what's right\n& leading by example\nbenefits everyone", URL: 'https://www.google.com/search?q=how+to+resist+peer+pressure+to+do+what%27s+right+for+yourself+and+your+community%2C+and+be+an+example+for+others&sca_esv=651549d4eb9f225e&sxsrf=ADLYWIIdexGLUw6hhWxFPgGem6_TAQYTlA%3A1731884662241&ei=dnY6Z-23DrTbptQP2srWsA0&ved=0ahUKEwjtytaQveSJAxW0rYkEHVqlFdYQ4dUDCA8&uact=5&oq=how+to+resist+peer+pressure+to+do+what%27s+right+for+yourself+and+your+community%2C+and+be+an+example+for+others', target: 'new'),
   build_immunity = g.add_node("It's a myth that\nexposure to pathogens \nis needed for a \nhealthy immune system", URL: 'https://youhavetoliveyour.life/we-need-exposure-for-immunity', target: 'new'),
-  weakens_immunse_system = g.add_node("Covid weakens the\nimmune system and\nrepeat infections \nmake it worse", URL: 'https://www.google.com/search?q=covid+weaking+immune+system', target: 'new'),
+  weakens_immunse_system = g.add_node("Covid weakens the\nimmune system and\nrepeat infections \nmake it worse", URL: 'https://www.google.com/search?q=covid+weakening+immune+system', target: 'new'),
   increasing_illness = g.add_node("Covid waves continue\nto happen & many\ntypes of illness\nare increasing\nthe last few years", URL: 'https://www.google.com/search?q=increasing+rates+of+illness', target: 'new'),
   not_a_hoax = g.add_node("It's not\na hoax!", URL: 'https://www.google.com/search?q=is+covid+a+hoax', target: 'new'),
   thank_you = g.add_node("Thank you!\n💯🍪")
